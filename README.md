@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are some aspects of my background and interests that may be helpful in understanding my professional profile:
 
 🔭 I’m currently working on building a natural langauge processing model to predict customer reviews for a telecom company.
 
