@@ -2,6 +2,8 @@
 
 Here are some aspects of my background and interests that may be helpful in understanding my professional profile:
 
+Bit'bout myself: I am a highly motivated and detail-oriented individual with a passion for continuous learning and self-improvement. I am a quick learner and have a strong work.
+
 🔭 I’m currently working on building a natural langauge processing model to predict customer reviews for a telecom company.
 
 🌱 I’m currently learning about deep learning techniques and natural language processing.
