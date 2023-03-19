@@ -2,7 +2,7 @@
 
 Here are some details about my background and interests that can provide insights into my professional profile.:
 
-Bit'bout myself: I am a highly motivated and detail-oriented individual with a passion for continuous learning and self-improvement. I am a quick learner. 
+Bit'bout myself: I am a highly motivated and detail-oriented with a passion for continuous learning and self-improvement and I am a quick learner. 
 
 🔭 I’m currently working on building a natural language processing model to predict customer reviews for a telecom company.
 
