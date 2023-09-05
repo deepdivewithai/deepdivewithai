@@ -19,6 +19,4 @@ Bit'bout myself: I am a highly motivated and detail-oriented with a passion for 
 - mobile - +91 706 679 0186
 - email - chetan.aiofficial@gmail.com or chetan.devsql@gmail.com
 - Github - https://github.com/deepdivewithai
-- Linkedin - https://www.linkedin.com/in/chetan-jadhav-6b8754256
-
-⚡ Fun fact: "An avid consumer of manhwa, manga, and anime, always on the lookout for the next great story to devour."
+- Linkedin - https://www.linkedin.com/in/chetan-jadhav-datawhiz/
