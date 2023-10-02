@@ -16,7 +16,8 @@ Bit'bout myself: I am a highly motivated and detail-oriented with a passion for 
 
 📫 How to reach me: 
 
-- mobile - +91 706 679 0186
-- email - chetan.aiofficial@gmail.com or chetan.devsql@gmail.com
+- Mobile - +91 706 679 0186
+- Email - chetan.aiofficial@gmail.com or chetan.devsql@gmail.com
 - Github - https://github.com/deepdivewithai
 - Linkedin - https://www.linkedin.com/in/chetan-jadhav-datawhiz/
+- Resume - https://drive.google.com/file/d/1LrZ3-6qIZPS2Cb6DvUDV0G0tyqgaCpyO/view?usp=sharing
